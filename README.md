@@ -1,6 +1,10 @@
 # Keeper App
 ## My Google Keep clone
 
+### Features
+- Adding notes
+- Deleting notes
+
 ### Stack
 - MongoDB database
 - Express
